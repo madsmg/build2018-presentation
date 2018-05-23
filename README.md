@@ -14,15 +14,22 @@ Insero company presentation on the 2018 Microsoft Build Conference.
 * [ML.NET (Machine Learning)](https://github.com/dotnet/machinelearning)
 
 ### IoT
+* [Azure DevKits](aka.ms/devkit)
 * [IoT School](https://aka.ms/IoTSchool)
 * [IoT Show](https://aka.ms/IoTShow)
 
+### AI and ML
+* [JFK Files](https://aka.ms/jfk)
+* [AI School](https://aischool.microsoft.com/)
+
 ### Documentation
 * [Microsoft Docs](https://docs.microsoft.com)
+* [Fluent Design System](https://fluent.microsoft.com/)
+* [Adaptive Cards](https://adaptivecards.io/)
 
 ### Hardware
 * [Qualcomm Vision - IoT Edge Camera](https://www.qualcomm.com/news/onq/2018/05/07/qualcomm-vision-intelligence-platform-microsoft-azure-bring-edge-ai-solution)
- 
+
 ### Selected Session Links
 
 Sessions and keynotes in no particular order. It's important to understand that I have selected a few of hundreds of sessions available at the Build site. The selected sessions are my take on what could be interesting for developers at Insero, however they are also heavily biased :)
